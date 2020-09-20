@@ -1,6 +1,6 @@
 # @caz-templates/minima
 
-> A minima template sample for caz.
+> A minima template sample for [CAZ](https://github.com/zce/caz).
 
 A minimum template repository only needs to have a `template` folder in which all template files should be placed.
 
